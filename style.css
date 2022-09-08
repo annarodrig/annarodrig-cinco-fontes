@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo&family=B612+Mono&family=Great+Vibes&family=Open+Sans:wght@300&family=Silkscreen&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+:root{
+    --cordo-fundo : #f1faee;
+}
+
+body {
+    background-color: var(--cordo-fundo);
+}
+
+p {
+    color: #1d3557;
+    font-size: 25px;
+}
+
+h1, h2 {
+    font-family: 'Roboto';
+    text-align: center;
+    color: #457b9d;
+}
+#primeiro-paragrafo {
+    font-family: 'Arvo';
+
+}
+#segundo-paragrafo {
+    font-family: 'B612 Mono';
+
+}
+#terceiro-paragrafo {
+    font-family: 'Great Vibes';
+
+}
+#quarto-paragrafo {
+    font-family: 'Open Sans';
+
+}
+#quinto-paragrafo {
+    font-family: 'Silkscreen';
+
+}
